@@ -1,6 +1,6 @@
 # webRTCProjectMajor
 
-Created this project as my major assignment for iOS. 
+Created a Major project at college for iOS. 
 Using framework WebRTC implemented video chat and shared room numbers throught CoreBluetooth framework.
 Following are the screen shots of the projects.
 
